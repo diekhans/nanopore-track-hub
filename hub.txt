@@ -1,0 +1,6 @@
+hub Nanopore_WGS
+shortLabel Nanopore WGS
+longLabel Nanopore WGS Consortium
+genomesFile genomes.txt
+email miten@soe.ucsc.edu
+

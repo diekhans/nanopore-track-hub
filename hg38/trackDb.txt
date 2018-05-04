@@ -1,0 +1,14 @@
+track ontDirectRna
+bigDataUrl http://s3.amazonaws.com/nanopore-human-wgs/rna/bamFiles/NA12878-DirectRNA.pass.dedup.NoU.fastq.hg38.minimap2.sorted.bam
+shortLabel NonoPore Direct RNA
+longLabel NA1287 NonoPore Direct RNA
+type bam
+visibility pack
+
+track ontCDNARna
+bigDataUrl http://s3.amazonaws.com/nanopore-human-wgs/rna/bamFiles/NA12878-cDNA-1D.pass.dedup.fastq.genbank_rna.minimap2.sorted.bam
+shortLabel NonoPore cDNA RNA
+longLabel NA1287 NonoPore cDNA RNA
+type bam
+visibility dense
+
