@@ -4,11 +4,13 @@ shortLabel NonoPore Direct RNA
 longLabel NA1287 NonoPore Direct RNA
 type bam
 visibility pack
+priority 1
 
 track ontCDNARna
 bigDataUrl http://s3.amazonaws.com/nanopore-human-wgs/rna/bamFiles/NA12878-cDNA-1D.pass.dedup.fastq.genbank_rna.minimap2.sorted.bam
 shortLabel NonoPore cDNA RNA
 longLabel NA1287 NonoPore cDNA RNA
 type bam
-visibility dense
+visibility hide
+priority 2
 
